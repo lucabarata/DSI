@@ -43,7 +43,7 @@
             this.lblSisMatri.AutoSize = true;
             this.lblSisMatri.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblSisMatri.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.lblSisMatri.Location = new System.Drawing.Point(164, 26);
+            this.lblSisMatri.Location = new System.Drawing.Point(165, 26);
             this.lblSisMatri.Name = "lblSisMatri";
             this.lblSisMatri.Size = new System.Drawing.Size(301, 31);
             this.lblSisMatri.TabIndex = 0;
@@ -55,7 +55,7 @@
             this.lblAlunos.AutoSize = true;
             this.lblAlunos.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblAlunos.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.lblAlunos.Location = new System.Drawing.Point(388, 77);
+            this.lblAlunos.Location = new System.Drawing.Point(370, 77);
             this.lblAlunos.Name = "lblAlunos";
             this.lblAlunos.Size = new System.Drawing.Size(39, 13);
             this.lblAlunos.TabIndex = 1;
@@ -68,7 +68,7 @@
             this.lblDisc.BackColor = System.Drawing.Color.DarkSlateBlue;
             this.lblDisc.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblDisc.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.lblDisc.Location = new System.Drawing.Point(201, 77);
+            this.lblDisc.Location = new System.Drawing.Point(213, 77);
             this.lblDisc.Name = "lblDisc";
             this.lblDisc.Size = new System.Drawing.Size(57, 13);
             this.lblDisc.TabIndex = 2;
@@ -95,7 +95,7 @@
             // 
             // btnConf
             // 
-            this.btnConf.Location = new System.Drawing.Point(193, 107);
+            this.btnConf.Location = new System.Drawing.Point(204, 107);
             this.btnConf.Name = "btnConf";
             this.btnConf.Size = new System.Drawing.Size(75, 23);
             this.btnConf.TabIndex = 5;
@@ -105,7 +105,7 @@
             // 
             // btnConf2
             // 
-            this.btnConf2.Location = new System.Drawing.Point(366, 107);
+            this.btnConf2.Location = new System.Drawing.Point(352, 107);
             this.btnConf2.Name = "btnConf2";
             this.btnConf2.Size = new System.Drawing.Size(75, 23);
             this.btnConf2.TabIndex = 6;
