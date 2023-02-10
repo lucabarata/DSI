@@ -8,3 +8,13 @@ C:\Users\Aluno\Documents\Visual Studio 2017\Projetos\Projeto_2DS3\Projeto_2DS3\o
 C:\Users\Aluno\Documents\Visual Studio 2017\Projetos\Projeto_2DS3\Projeto_2DS3\obj\Debug\Projeto_2DS3.csproj.CoreCompileInputs.cache
 C:\Users\Aluno\Documents\Visual Studio 2017\Projetos\Projeto_2DS3\Projeto_2DS3\obj\Debug\Projeto_2DS3.exe
 C:\Users\Aluno\Documents\Visual Studio 2017\Projetos\Projeto_2DS3\Projeto_2DS3\obj\Debug\Projeto_2DS3.pdb
+C:\Users\Aluno\Documents\GitHub\DSI\Projetos\Projeto_2DS3\Projeto_2DS3\bin\Debug\Projeto_2DS3.exe.config
+C:\Users\Aluno\Documents\GitHub\DSI\Projetos\Projeto_2DS3\Projeto_2DS3\bin\Debug\Projeto_2DS3.exe
+C:\Users\Aluno\Documents\GitHub\DSI\Projetos\Projeto_2DS3\Projeto_2DS3\bin\Debug\Projeto_2DS3.pdb
+C:\Users\Aluno\Documents\GitHub\DSI\Projetos\Projeto_2DS3\Projeto_2DS3\obj\Debug\Projeto_2DS3.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\DSI\Projetos\Projeto_2DS3\Projeto_2DS3\obj\Debug\Projeto_2DS3.Properties.Resources.resources
+C:\Users\Aluno\Documents\GitHub\DSI\Projetos\Projeto_2DS3\Projeto_2DS3\obj\Debug\Projeto_2DS3.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\GitHub\DSI\Projetos\Projeto_2DS3\Projeto_2DS3\obj\Debug\Projeto_2DS3.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\DSI\Projetos\Projeto_2DS3\Projeto_2DS3\obj\Debug\Projeto_2DS3.exe
+C:\Users\Aluno\Documents\GitHub\DSI\Projetos\Projeto_2DS3\Projeto_2DS3\obj\Debug\Projeto_2DS3.pdb
+C:\Users\Aluno\Documents\GitHub\DSI\Projetos\Projeto_2DS3\Projeto_2DS3\obj\Debug\Projeto_2DS3.Tela_Inicial.resources
