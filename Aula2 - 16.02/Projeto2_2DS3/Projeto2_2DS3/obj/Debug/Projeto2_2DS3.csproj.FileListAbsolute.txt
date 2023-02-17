@@ -1,0 +1,12 @@
+C:\Users\Aluno\Documents\GitHub\DSI\Aula2 - 16.02\Projeto2_2DS3\Projeto2_2DS3\bin\Debug\Projeto2_2DS3.exe.config
+C:\Users\Aluno\Documents\GitHub\DSI\Aula2 - 16.02\Projeto2_2DS3\Projeto2_2DS3\bin\Debug\Projeto2_2DS3.exe
+C:\Users\Aluno\Documents\GitHub\DSI\Aula2 - 16.02\Projeto2_2DS3\Projeto2_2DS3\bin\Debug\Projeto2_2DS3.pdb
+C:\Users\Aluno\Documents\GitHub\DSI\Aula2 - 16.02\Projeto2_2DS3\Projeto2_2DS3\obj\Debug\Projeto2_2DS3.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\DSI\Aula2 - 16.02\Projeto2_2DS3\Projeto2_2DS3\obj\Debug\Projeto2_2DS3.Properties.Resources.resources
+C:\Users\Aluno\Documents\GitHub\DSI\Aula2 - 16.02\Projeto2_2DS3\Projeto2_2DS3\obj\Debug\Projeto2_2DS3.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\GitHub\DSI\Aula2 - 16.02\Projeto2_2DS3\Projeto2_2DS3\obj\Debug\Projeto2_2DS3.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\DSI\Aula2 - 16.02\Projeto2_2DS3\Projeto2_2DS3\obj\Debug\Projeto2_2DS3.exe
+C:\Users\Aluno\Documents\GitHub\DSI\Aula2 - 16.02\Projeto2_2DS3\Projeto2_2DS3\obj\Debug\Projeto2_2DS3.pdb
+C:\Users\Aluno\Documents\GitHub\DSI\Aula2 - 16.02\Projeto2_2DS3\Projeto2_2DS3\obj\Debug\Projeto2_2DS3.FormLogin.resources
+C:\Users\Aluno\Documents\GitHub\DSI\Aula2 - 16.02\Projeto2_2DS3\Projeto2_2DS3\obj\Debug\Projeto2_2DS3.FormMenu.resources
+C:\Users\Aluno\Documents\GitHub\DSI\Aula2 - 16.02\Projeto2_2DS3\Projeto2_2DS3\obj\Debug\Projeto2_2DS3.FormEmpregados.resources
